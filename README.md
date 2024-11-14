@@ -1,5 +1,4 @@
-[![Sawwave's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawwave)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawwave&hide_progress=true)
 
 
 <!--
