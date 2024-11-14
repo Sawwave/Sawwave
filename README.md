@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawwave&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawwave&)
 
 
 <!--
