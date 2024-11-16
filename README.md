@@ -1,4 +1,5 @@
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawwave&layout=compact&theme=radical&hide_border=true&count_private=true)
 <!--
 **Sawwave/Sawwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
